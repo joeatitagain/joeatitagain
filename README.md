@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Joe, I'm a developer with a solid understanding of fullstack web development. I'm looking forward to becoming an AI engineer, but I'm not quite there yet. <br>Chief Dev Overlord BTW 😅
+Hi, I'm Joe, I'm a fullstack web development. I'm looking forward to becoming an AI engineer, but I'm not quite there yet. <br>Chief Dev Overlord BTW 😅
 
 
 # 💻 Tech Stack:
