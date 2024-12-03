@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
-<h3 align="center">Hi, I'm Joe, I'm a fullstack web development. I'm looking forward to becoming an AI engineer, but I'm not quite there yet. Chief Dev Overlord BTW 😅</h3>
+<h3 align="center">Hi, I'm Joe, I'm a fullstack web development. I'm looking forward to becoming an AI engineer, but I'm not quite there yet. chiefDev Overlord BTW 😅</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joeatitagain" alt="joeatitagain" /></a> </p>
 
